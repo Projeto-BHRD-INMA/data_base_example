@@ -1,4 +1,4 @@
-# Data base discussion
+# Database discussion
 
 ## Useful links
 
@@ -12,6 +12,9 @@
 
 - [TRY](https://www.try-db.org/TryWeb/Home.php): plants' traits database
 - [TreeCo](http://labtrop.ib.usp.br/doku.php?id=projetos:treeco:start): Neotropical Tree Communities database
+
+## A very basic presentation
+
 
 ## Data base example 
 
