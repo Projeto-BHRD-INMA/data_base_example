@@ -1,0 +1,146 @@
+"idLoc","continent","countryCode","country","locality","decimalLatitude","decimalLongitude","geodeticDatum","stateProvince","georeferenceProtocol","georeferencedDate","coordinateUncertaintyInMeters","county","municipality"
+"idLoc_01","SOUTH_AMERICA","BR","Brazil","Sierra Eftrella by ra Lapider rivulorum.",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"idLoc_02","SOUTH_AMERICA","BO","Bolivia, Plurinational State of",NA,-16.714611,-64.670931,"WGS84",NA,NA,NA,NA,NA,NA
+"idLoc_03","SOUTH_AMERICA","BR","Brazil",NA,-23.333333,-44.833333,"WGS84","São Paulo",NA,NA,NA,NA,NA
+"idLoc_04","SOUTH_AMERICA","BR","Brazil","Ipiranga (Ypiranga)",-25.021592,-50.590131,"WGS84","Paraná","Google Earth",NA,NA,NA,NA
+"idLoc_05","SOUTH_AMERICA","BR","Brazil","Serra dos Orgaos National Park (Organ Mountains)",-22.510275,-42.989594,"WGS84","Rio de Janeiro","Google Earth",NA,NA,NA,NA
+"idLoc_06","SOUTH_AMERICA","BO","Bolivia, Plurinational State of","Coroico, Nord Yungas",-16.194192,-67.728794,"WGS84","La Paz","Google Earth",NA,NA,NA,NA
+"idLoc_07","SOUTH_AMERICA","BR","Brazil",NA,-29.779958,-53.180947,"WGS84","120","Noriaki Murakami",NA,NA,NA,NA
+"idLoc_08","","","","",NA,NA,"","","","",NA,"",""
+"idLoc_09","SOUTH_AMERICA","BR","Brazil","Alto Matador, Rio do Sul, Mata.",NA,NA,NA,"Santa Catarina",NA,NA,NA,NA,NA
+"idLoc_10","SOUTH_AMERICA","BR","Brazil","Serra do Mar, Desvio Upiranga, in silva prum.",NA,NA,NA,"Paraná",NA,NA,NA,NA,NA
+"idLoc_11","SOUTH_AMERICA","BR","Brazil","S. Cruz, Serra de Melo",NA,NA,NA,"Rio Grande do Sul",NA,NA,NA,NA,NA
+"idLoc_12","SOUTH_AMERICA","BR","Brazil","Do sul do Brasil, S. Pedro, Montenegro, RGS.",NA,NA,NA,"Rio Grande do Sul",NA,NA,NA,NA,NA
+"idLoc_13","SOUTH_AMERICA","BR","Brazil","Rye do Sul, Serra de Melo.",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"idLoc_14","SOUTH_AMERICA","BR","Brazil","Ribeirao Grande, Iaio.",NA,NA,NA,"Santa Catarina",NA,NA,NA,NA,NA
+"idLoc_15",NA,"BO","Bolivia, Plurinational State of","Polo-Polo bei Coroico, Nordyungas, im tiefen Sihatten der Hochwalden aufschr nassam Bovis. [interpreted]",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"idLoc_16",NA,"BR","Brazil","Prov, Minas Geraes: Caldas.",NA,NA,NA,"Minas Gerais",NA,NA,NA,NA,NA
+"idLoc_17","NORTH_AMERICA","PR","Puerto Rico","Toro Negro, ca. 50 km. wsw of San Juan.",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"idLoc_18","NORTH_AMERICA","PR","Puerto Rico","Las Tres Palmas. Trail off Rt 533, km 5.4, and then up slope.",18.229788,-66.55468,"WGS84","Jayuya",NA,"2010-07-09",NA,NA,NA
+"idLoc_19","SOUTH_AMERICA","BO","Bolivia, Plurinational State of","Polo-Polo bei Coroico, Nordyungas: [Im Aifen Schatten des Hochwaldes auf ... Boden.].",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"idLoc_20",NA,"none",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"idLoc_21","NORTH_AMERICA","PR","Puerto Rico",NA,18.2655,-66.7004,"WGS84","Utuado","Online gazetteer","2007-07-23",NA,NA,NA
+"idLoc_22","NORTH_AMERICA","GD","Grenada",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"idLoc_23","NORTH_AMERICA","MQ","Martinique","Bois des Bains-Jaunes",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"idLoc_24","NORTH_AMERICA","PR","Puerto Rico","Ala de la Piedra above Villalba.",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"idLoc_25","NORTH_AMERICA","DM","Dominica","Rosalie",15.372467,-61.255366,"WGS84",NA,"Georeferencing Quick Reference Guide, Version 2012","2019-02-27",377.23,NA,NA
+"idLoc_26","NORTH_AMERICA","GP","Guadeloupe","Rivière Colas (Fonds St. Denis) Calebasse, route de Mare Rouge a l'Ajoupa-Bouiller",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"idLoc_27","NORTH_AMERICA","DM","Dominica","Lisdara",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"idLoc_28","NORTH_AMERICA","PR","Puerto Rico","Los Tres Picachos, up E slopes along jeep road (from Rt 149 near jct Rt 157) through old coffee plantation.",18.216208,-66.528483,"WGS84","Ciales",NA,"2008-12-10",NA,NA,NA
+"idLoc_29",NA,"BR","Brazil","r",0,0,"WGS84","Paraná",NA,NA,NA,"Morretes",NA
+"idLoc_30",NA,"BR","Brazil",NA,0,0,"WGS84","Paraná",NA,NA,NA,"Telêmaco Borba",NA
+"idLoc_31",NA,"BR","Brazil","Rio Mirador (próximo ao Parque Estadual da Serra Furada).",-28.17,-49.41,"WGS84","Santa Catarina",NA,NA,NA,NA,"Orleans"
+"idLoc_32",NA,"BR","Brazil","Sorocaba do Sul.",-27.36,-48.78,"WGS84","Santa Catarina",NA,NA,NA,NA,"Biguaçu"
+"idLoc_33",NA,"BR","Brazil",NA,-28.186667,-49.212778,"WGS84","Santa Catarina",NA,NA,NA,NA,"Grão Pará"
+"idLoc_34",NA,"BR","Brazil",NA,NA,NA,NA,"Santa Catarina",NA,NA,NA,NA,"Grão Pará"
+"idLoc_35",NA,"BR","Brazil","Rio Veado.",NA,NA,NA,"Santa Catarina",NA,NA,NA,NA,"Nova Trento"
+"idLoc_36",NA,"BR","Brazil","Est. do Rio. Sobre pedras.",NA,NA,NA,"Rio de Janeiro",NA,NA,NA,NA,"Itatiaia"
+"idLoc_37",NA,"BR","Brazil","Estr. para Caraguatatuba.",NA,NA,NA,"São Paulo",NA,NA,NA,NA,"Salesópolis"
+"idLoc_38",NA,"BR","Brazil","Parque Nacional do Itatiaia. Trilha Rui Braga - Rebouças/Sede. Próximo ao Abrigo Lamego.",-22.425,-44.632222,"WGS84","Rio de Janeiro",NA,NA,NA,NA,"Itatiaia"
+"idLoc_39",NA,"BR","Brazil","APA Cairuçu. Km 206 da Rio-Santos. Mata ao longo de um pequeno curso d´água.",NA,NA,NA,"Rio de Janeiro",NA,NA,NA,NA,"Paraty"
+"idLoc_40",NA,"BR","Brazil","Trilha do Hotel Simon para o Três Picos. Parque Nacional de Itatiaia",-22.25,-44.566667,"WGS84","Rio de Janeiro",NA,NA,NA,NA,"Itatiaia"
+"idLoc_41",NA,"BR","Brazil",NA,-22.482778,-42.916111,"WGS84","Rio de Janeiro",NA,NA,NA,NA,"Guapimirim"
+"idLoc_42",NA,"BR","Brazil","Trilha do Hotel Simon para os Três Picos. Parque Nacional de Itatiaia",-22.25,-44.566667,"WGS84","Rio de Janeiro",NA,NA,NA,NA,"Itatiaia"
+"idLoc_43",NA,"BR","Brazil","Rio Bonito de Macaé de Cima. Rio próximo a pousada Estalagem. APA Macaé de Cima",-22.401944,-42.430278,"WGS84","Rio de Janeiro",NA,NA,NA,NA,"Nova Friburgo"
+"idLoc_44",NA,"BR","Brazil","APA Cairuçu. Trilha de Ponta Negra para Cairuçu das Pedras.",NA,NA,NA,"Rio de Janeiro",NA,NA,NA,NA,"Paraty"
+"idLoc_45",NA,"BR","Brazil","Reserva Ecológica Rio das Pedras. Poço do Cambucá.",NA,NA,NA,"Rio de Janeiro",NA,NA,NA,NA,"Mangaratiba"
+"idLoc_46",NA,"BR","Brazil","Ararangua-Peroba.",NA,NA,NA,"Santa Catarina",NA,NA,NA,NA,"Santa Catarina"
+"idLoc_47",NA,"BR","Brazil","Vila Atlântica",NA,NA,NA,"São Paulo",NA,NA,NA,NA,"São Paulo"
+"idLoc_48",NA,"BR","Brazil","Gávea. Mata do Pae Ricardo. Colhida sobre pedras humidas.",NA,NA,NA,"Rio de Janeiro",NA,NA,NA,NA,"Rio de Janeiro"
+"idLoc_49",NA,"BR","Brazil","Distrito de Macaé de Cima, Sítio Bacchus, trilha próxima à casa que possui o encanamento, indo para a cumieira.",-22.374444,-42.494444,"WGS84","Rio de Janeiro",NA,NA,NA,NA,"Nova Friburgo"
+"idLoc_50",NA,"BR","Brazil","Morro Caiuvá.",NA,NA,NA,"São Paulo",NA,NA,NA,NA,"Iguape"
+"idLoc_51",NA,"BR","Brazil","Rio Novo.",-27.180278,-49.230556,"WGS84","Santa Catarina",NA,NA,NA,NA,"Presidente Nereu"
+"idLoc_52",NA,"BR","Brazil","Reserva Rio das Pedras, trilha para o Corisco depois da Cachoeira.",-22.95,-44.033333,"WGS84","Rio de Janeiro",NA,NA,NA,NA,"Mangaratiba"
+"idLoc_53",NA,"BR","Brazil","Morro da Bateria.",NA,NA,NA,"Santa Catarina",NA,NA,NA,NA,"Santa Catarina"
+"idLoc_54",NA,"BR","Brazil","Parque Nacional da Serra dos Órgãos.",-22.458611,-43.008611,"WGS84","Rio de Janeiro",NA,NA,NA,NA,"Teresópolis"
+"idLoc_55",NA,"BR","Brazil","Trilha entre Santo Amaro (Cachoeiras) e São Lourenço (Friburgo), próximo ao Rio Santo Amaro. Parque Estadual dos Três Picos",-22.389167,-42.704722,"WGS84","Rio de Janeiro",NA,NA,NA,NA,"Cachoeiras de Macacu"
+"idLoc_56",NA,"BR","Brazil","Reserva Indígena Água Claras.",-27.360278,-48.960556,"WGS84","Santa Catarina",NA,NA,NA,NA,"Major Gercino"
+"idLoc_57",NA,"BR","Brazil","Rio das Pedras. Trilha para o Cambuca. Às margens do Poço do Cambuca (Rio Grande).",NA,NA,NA,"Rio de Janeiro",NA,NA,NA,NA,"Mangaratiba"
+"idLoc_58","SOUTH_AMERICA","BR","Brazil","P.E.Serra do Mar, Núcleo Picinguaba",NA,NA,NA,"Sp",NA,NA,NA,NA,"Ubatuba"
+"idLoc_59","SOUTH_AMERICA","BR","Brazil",NA,-27,-50,"WGS84","Santa Catarina",NA,NA,NA,NA,NA
+"idLoc_60","SOUTH_AMERICA","BR","Brazil","Morro do Tucum",NA,NA,NA,"Paraná",NA,NA,NA,NA,"Campina Grande do Sul"
+"idLoc_61","SOUTH_AMERICA","BR","Brazil","Morro Sete",NA,NA,NA,"Paraná",NA,NA,NA,NA,"Morretes"
+"idLoc_62","SOUTH_AMERICA","BR","Brazil","Parque Estadual Marumbi",NA,NA,NA,"Paraná",NA,NA,NA,NA,"Morretes"
+"idLoc_63","SOUTH_AMERICA","BR","Brazil","Morungava, Faz. Tubancia",NA,NA,NA,"Rs",NA,NA,NA,NA,"Gravataí"
+"idLoc_64","SOUTH_AMERICA","BR","Brazil","Serra do Mar, Estação Engenheiro Lange a Prainhas",NA,NA,NA,"Paraná",NA,NA,NA,NA,"Morretes"
+"idLoc_65","SOUTH_AMERICA","BR","Brazil","Fraga",NA,NA,NA,"Rs",NA,NA,NA,NA,"Santo Antônio da Patrulha"
+"idLoc_66","SOUTH_AMERICA","BR","Brazil",NA,NA,NA,NA,"Rs",NA,NA,NA,NA,"Santa Cruz do Sul"
+"idLoc_67","SOUTH_AMERICA","BR","Brazil","Estrada da Graciosa, Grota Funda",NA,NA,NA,"Paraná",NA,NA,NA,NA,"Morretes"
+"idLoc_68","SOUTH_AMERICA","BR","Brazil",NA,NA,NA,NA,"Rs",NA,NA,NA,NA,"Santo Antônio da Patrulha"
+"idLoc_69",NA,"BR","Brazil","a Brasilia",-22.94917,-43.21667,"WGS84",NA,NA,NA,NA,NA,NA
+"idLoc_70",NA,"BR","Brazil","Parque Estadual da Serra do Mar, Núcleo Picinguaba, casa da farinha. Parcela C.",NA,NA,NA,"São Paulo",NA,NA,NA,NA,"Ubatuba"
+"idLoc_71",NA,"BR","Brazil","Serra do Japi, Na estrada para a torre da TV Cultura.",-23.25,-46.933333,"WGS84","São Paulo",NA,NA,NA,NA,"Jundiaí"
+"idLoc_72",NA,"BR","Brazil","Serra do Cuscuzeiro",-22.133333,-47.666667,"WGS84","São Paulo",NA,NA,NA,NA,"Analândia"
+"idLoc_73",NA,"BR","Brazil","Ilha do Mel, Morro Bento Alves.",NA,NA,NA,"Paraná",NA,NA,NA,NA,"Paranaguá"
+"idLoc_74",NA,"BR","Brazil","Fazenda Intervales, Trilha da Cassadinha.",NA,NA,NA,"São Paulo",NA,NA,NA,NA,"Capão Bonito"
+"idLoc_75",NA,"BR","Brazil",NA,NA,NA,NA,"Rio de Janeiro",NA,NA,NA,NA,NA
+"idLoc_76",NA,"BR","Brazil",NA,NA,NA,NA,"Rio de Janeiro",NA,NA,NA,NA,NA
+"idLoc_77",NA,"AR","Argentina","Loreto",-27.32,-55.53,"WGS84","Misiones",NA,NA,NA,"Candelaria",NA
+"idLoc_78",NA,"BR","Brazil","Sin indicación",NA,NA,NA,"Paraná",NA,NA,NA,"Morretes",NA
+"idLoc_79","SOUTH_AMERICA","BR","Brazil","Santa Catarina, Sertão da Lagoa, Ilha de Santa Catarina, Florinopolis.",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"idLoc_80","SOUTH_AMERICA","BR","Brazil",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"idLoc_81","SOUTH_AMERICA","BR","Brazil","Jaguariaiva",-24.25,-49.7,"WGS84","Paraná","Google Earth",NA,NA,NA,NA
+"idLoc_82","SOUTH_AMERICA","BR","Brazil","Nearest Named Place: Alto da Serra",-23.783333,-46.316667,"WGS84","São Paulo","Google Earth",NA,NA,NA,NA
+"idLoc_83","SOUTH_AMERICA","BR","Brazil","Nearest Named Place: Ipiranga (Ypiranga)",-25.021592,-50.590131,"WGS84","Paraná","Google Earth",NA,NA,NA,NA
+"idLoc_84","SOUTH_AMERICA","BR","Brazil",NA,-10.773109,-53.08982,"WGS84",NA,NA,NA,NA,NA,NA
+"idLoc_85","SOUTH_AMERICA","BR","Brazil","Ararangua",-28.945394,-49.485308,"WGS84","Santa Catarina","Google Earth",NA,NA,NA,NA
+"idLoc_86","SOUTH_AMERICA","BR","Brazil",NA,-26.936094,-50.968833,"WGS84","Santa Catarina","Google Earth",NA,NA,NA,NA
+"idLoc_87","SOUTH_AMERICA","BR","Brazil","Petropolis",-22.505,-43.1789,"WGS84","Rio de Janeiro","Google Earth",NA,NA,NA,NA
+"idLoc_88","SOUTH_AMERICA","BR","Brazil","Parish: Ubatumirim; Nearest Named Place: Pico do Papagaio; Township: Picinguaba",NA,NA,NA,"São Paulo",NA,NA,NA,NA,NA
+"idLoc_89","SOUTH_AMERICA","BR","Brazil","Nearest Named Place: Ipiranga (Ypiranga)",-25.021592,-50.590131,"WGS84","Paraná","Google Earth",NA,NA,NA,NA
+"idLoc_90","SOUTH_AMERICA","BR","Brazil","Named Geo. Feature: Véu-da-Noiva (Waterfall); Nearest Named Place: Veu-da-Noiva",-26.65,-49.52,"WGS84","Santa Catarina","Google Earth",NA,NA,NA,NA
+"idLoc_91","SOUTH_AMERICA","BR","Brazil",NA,-23.35,-44.766667,"WGS84","600","E. Jefferson Prado",NA,NA,NA,NA
+"idLoc_92","","","","",NA,NA,"","","","",NA,"",""
+"idLoc_93","SOUTH_AMERICA","BR","Brazil",NA,-22.531489,-42.64735,"WGS84","Rio de Janeiro","Google Earth",NA,NA,NA,NA
+"idLoc_94","SOUTH_AMERICA","BR","Brazil",NA,-26.65,-49.516667,"WGS84","NHMUK","2008-03-20T00:00:00",NA,NA,NA,NA
+"idLoc_95","","","","",NA,NA,"","","","",NA,"",""
+"idLoc_96","SOUTH_AMERICA","BR","Brazil","Parish: Ubatumirim; Nearest Named Place: Rio da Fazenda; Township: Picinguaba",NA,NA,NA,"São Paulo",NA,NA,NA,NA,NA
+"idLoc_97",NA,"BR","Brazil","Prov. Minas Gerais Caldas.",NA,NA,NA,"Minas Gerais",NA,NA,NA,NA,NA
+"idLoc_98","SOUTH_AMERICA","BR","Brazil","Morro da Bateia, Brusque.",NA,NA,NA,"Santa Catarina",NA,NA,NA,NA,NA
+"idLoc_99","SOUTH_AMERICA","BR","Brazil","Therezoplis-Rio-Brazil",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"idLoc_100",NA,"BR","Brazil","Carnoa, M. Iguape",NA,NA,NA,"São Paulo",NA,NA,NA,NA,NA
+"idLoc_101","SOUTH_AMERICA","BR","Brazil","Sertago da Lagao, Ilha da Santa Catarina.",NA,NA,NA,"Santa Catarina",NA,NA,NA,NA,NA
+"idLoc_102","SOUTH_AMERICA","BR","Brazil","Serra do Melo.",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"idLoc_103",NA,"BO","Bolivia, Plurinational State of","Polo-Polo near Coroico.",NA,NA,NA,"La Paz",NA,NA,NA,"Nor Yungas",NA
+"idLoc_104","SOUTH_AMERICA","BR","Brazil","RPPN Serra Bonita.",-15.391667,-39.565278,"WGS84","Bahia",NA,NA,NA,"Camacan",NA
+"idLoc_105","SOUTH_AMERICA","BR","Brazil","Camacã. RPPN Serra Bonita.",NA,NA,NA,"Bahia",NA,NA,NA,NA,NA
+"idLoc_106","SOUTH_AMERICA","BR","Brazil","Camacã: Fazenda Serra Bonita, RPPN Serra Bonita, 9.7 Km W de Camacã na estrada para Jacarecí, daí 6 Km SW na estrada para a RPPN e Torre da Embratel.",-15.3917,-39.5653,"WGS84","Bahia",NA,NA,NA,"Camacan",NA
+"idLoc_107",NA,"BR","Brazil","Alto São Lourenço",-19.887222,-40.575556,"WGS84","Espírito Santo",NA,NA,NA,NA,"Santa Teresa"
+"idLoc_108",NA,"BR","Brazil","Alto São Lourenço, sítio da Cachoeira (Lídio)",NA,NA,NA,"Espírito Santo",NA,NA,NA,NA,"Santa Teresa"
+"idLoc_109",NA,"BR","Brazil","RPPN Serra Bonita.",-15.391667,-39.565278,"WGS84","Bahia",NA,NA,NA,NA,"Camacan"
+"idLoc_110",NA,"BR","Brazil","Fazenda Serra Bonita. Reserva Serra Bonita, 9,7 km W de Camacâ na estrada para Jacarecí, daí 6 km SW na estrada para RPPN Serra Bonita e Torre da Embratel. Trilha do Mirante",-15.390278,-39.568056,"WGS84","Bahia",NA,NA,NA,NA,"Camacã"
+"idLoc_111",NA,"BR","Brazil","Distrito de Talismã, Fazenda Duas Barras.",-16.401389,-40.038889,"WGS84","Minas Gerais",NA,NA,NA,NA,"Santa Maria do Salto"
+"idLoc_112",NA,"BR","Brazil","RPPN Serra do Teimoso. Rodovia Jussari-Palmira. Fazenda Teimoso, entrada à esquerda ca. 7,5 Km de Jussari. Trilha para o topo da serra.",-15.160278,-39.536111,"WGS84","Bahia",NA,NA,NA,NA,"Jussari"
+"idLoc_113",NA,"BR","Brazil","Serra Corcovado, 9,8 km ao SW de Coarací na estrada para Almadina, daí N até a Fazenda São José. Proprietário Senhor Francisco.",-14.705833,-39.603333,"WGS84","Bahia",NA,NA,NA,NA,"Almadina"
+"idLoc_114",NA,"BR","Brazil","RPPN Serra Bonita. Fazenda Uiraçu. Trilha da Bapeba. Interior da mata.",-15.391667,-39.565278,"WGS84","Bahia",NA,NA,NA,NA,"CAMACAN"
+"idLoc_115",NA,"BR","Brazil","Fazenda Serra Bonita, 9,7Km W de Camacan na estrada para Jacarecí, daí 6Km SW na estrada para a RPPN e Torre da Embratel.",-15.391667,-39.565278,"WGS84","Bahia",NA,NA,NA,NA,"CAMACAN"
+"idLoc_116",NA,"BR","Brazil","Fazenda Serra Bonita, Reserva Serra Bonita, 9,7Km a WE de Camacan ma Rod. para Jacarecí. Depois 6Km SW na Ror. Para RPPN Serra Bonita e torre da Embratel.",-15.391667,-39.565278,"WGS84","Bahia",NA,NA,NA,NA,"CAMACAN"
+"idLoc_117",NA,"BR","Brazil","Fazenda Serra Bonita, 9,7Km W de Camacan na estrada de Camacan para Jacarecí, daí 6Km Sw na estrada para a Reserva e Torre da Embratel.",-15.391667,-39.565278,"WGS84","Bahia",NA,NA,NA,NA,"CAMACAN"
+"idLoc_118",NA,"BR","Brazil","RPPN Serra do Teimoso. Rod. Jussarí/Palmira. Fazenda Teimoso, entrada à esq. Ca. 7,5Km de Jussarí. Trilha para o topo da serra.",-15.160278,-39.536111,"WGS84","Bahia",NA,NA,NA,NA,"JUSSARÍ"
+"idLoc_119","SOUTH_AMERICA","BR","Brazil","RPPN Serra Bonita.",-15.391667,-39.565278,"WGS84","Bahia",NA,NA,NA,"Camacan",NA
+"idLoc_120","SOUTH_AMERICA","BR","Brazil","RPPN Serra Bonita.",NA,NA,NA,"Bahia",NA,NA,NA,"Camacan",NA
+"idLoc_121","SOUTH_AMERICA","BR","Brazil","Serra do Corcovado. 9.8 km ao SW de Coarací na estrada para Almadina, daí N até a Fazenda São José. Proprietário Senhor Francisco.",-14.7058,-39.6033,"WGS84","Bahia",NA,NA,NA,"Almadina",NA
+"idLoc_122","SOUTH_AMERICA","BR","Brazil","Fazenda Serra Bonita, Reserva Serra Bonita, 9,7 km W de Camacan, na estrada para Jacarecím daí 6 km SW na estrada para RPPN Serra Bonita e Torre da Embratel. Trilha do mirante",-15.3903,-39.5681,"WGS84","Bahia",NA,NA,NA,"Camacan",NA
+"idLoc_123",NA,"BR","Brazil","Nova Lombardia, Reserva Biológica Augusto Ruschi, interior de mata",NA,NA,NA,"Espírito Santo",NA,NA,NA,NA,"Santa Teresa"
+"idLoc_124",NA,"BR","Brazil","Nova Lombardia, Reserva Biológica Augusto Ruschi, Dra Marlene, antiga estrada",NA,NA,NA,"Espírito Santo",NA,NA,NA,NA,"Santa Teresa"
+"idLoc_125",NA,"BR","Brazil","Distrito de Talismã., Fazenda Duas Barras. Floresta Ombrófila densa montanha.",NA,NA,NA,"Minas Gerais",NA,NA,NA,NA,"Santa Maria do Salto"
+"idLoc_126",NA,"BR","Brazil","Fazenda Serra Bonita Reserva Serra Bonita, 9,7km W de Camacan, na estrada para Jacarecí, daí 6km SW na estradapara RPPN Serra Bonita e Torre da Embratel, trilha do mirante.",-15.390278,-39.568056,"WGS84","Bahia",NA,NA,NA,NA,"Camacan"
+"idLoc_127","SOUTH_AMERICA","BR","Brazil","Alto São Lourenço, Sítio da Cachoeira (Lídio)",NA,NA,NA,"Espírito Santo",NA,NA,NA,NA,"Santa Teresa"
+"idLoc_128","SOUTH_AMERICA","BR","Brazil","Nova Lombardia, Reserva Biológica Augusto Ruschi, Dra. Marlene, antiga estrada.",NA,NA,NA,"Espírito Santo",NA,NA,NA,NA,"Santa Teresa"
+"idLoc_129",NA,"BR","Brazil","Mata do Boi Rajado, a ca. 14 km da sede de Bandeira, na divisa com a Bahia.",-15.938055,-40.614444,"WGS84","Minas Gerais",NA,NA,NA,NA,"Bandeira"
+"idLoc_130",NA,"BR","Brazil","Serra Bonita. Fazenda Uiraçu. Trilha da Bapeba.",-15.391667,-39.565278,"WGS84","Bahia",NA,NA,NA,NA,"Camacan"
+"idLoc_131",NA,"BR","Brazil","Fazenda Serra Bonita, Reserva Serra Bonita, 9,7 km W de Camacan, na estrada para Jacarecí, daí 6 km SW na estrada para RPPN Serra Bonita e Torre da Embratel. Trilha do mirante.",-15.390278,-39.568056,"WGS84","Bahia",NA,NA,NA,NA,"Camacan"
+"idLoc_132",NA,"BR","Brazil","Fazenda Serra Bonita, 9,7 km W de Camacan na estrada para Jacarecí, daí 6 km SW na estrada para a Reserva e Torre da Embratel.",-15.391667,-39.565278,"WGS84","Bahia",NA,NA,NA,NA,"Camacan"
+"idLoc_133",NA,"BR","Brazil","RPPN Serra Bonita",-15.391667,-39.565278,"WGS84","Bahia",NA,NA,NA,NA,"CAMACAN"
+"idLoc_134",NA,"BR","Brazil","Reserva Biológica Augusto Ruschi - Nova Lombardia",-19.9075,-40.553056,"WGS84","Espírito Santo",NA,NA,NA,NA,"Santa Teresa"
+"idLoc_135",NA,"BR","Brazil","RPPN Serra do Teimoso.",-15.154389,-39.523389,"WGS84","Bahia",NA,NA,NA,NA,"Jussarí"
+"idLoc_136",NA,"BR","Brazil","Fazenda Duas Barras.",NA,NA,NA,"Minas Gerais",NA,NA,NA,NA,"Santa Maria do Salto"
+"idLoc_137",NA,"BR","Brazil","Reserva Biológica Augusto Ruschi - Nova Lombardia",-19.9075,-40.553056,"WGS84","Espírito Santo",NA,NA,NA,NA,"Santa Teresa"
+"idLoc_138",NA,"BR","Brazil","RPPN Serra Bonita",NA,NA,NA,"Bahia",NA,NA,NA,NA,"Camacan"
+"idLoc_139","SOUTH_AMERICA","BR","Brazil","Reserva Biológica Augusto Ruschi",NA,NA,NA,"Espírito Santo",NA,NA,NA,NA,"Santa Teresa"
+"idLoc_140",NA,"BR","Brazil","Distrito de Talismã, fazenda Duas Barras, próximo a divisa com o estado da Bahia.",-16.445833,-40.126111,"WGS84","Minas Gerais",NA,NA,NA,NA,"Santa Maria do Salto"
+"idLoc_141",NA,"BR","Brazil","Fazenda Serra Bonita, 9,7 km W de Camacan na estrada para Jacarecí, daí 6 km SW na estrada para a RPPN e Torre da Embratel.",-15.391667,-39.565278,"WGS84","Bahia",NA,NA,NA,NA,"Camacan"
+"idLoc_142","SOUTH_AMERICA","BR","Brazil","RPPN Serra Bonita",NA,NA,NA,"Ba",NA,NA,NA,NA,"Camacã"
+"idLoc_143",NA,"BR","Brazil","RPPN Serra Bonita",-15.391667,-39.565278,"WGS84","Bahia",NA,NA,NA,NA,"CAMACAN"
+"idLoc_144",NA,"BR","Brazil","Fazenda Serra Bonita. Reserva Serra Bonita, 9,7Km W de Camacan, na estrada para Jacarecí, daí 6Km SW na estrada p RPPN Serra Bonita e Torre da Embratel. Trilha do mirante. Próximo ao topo do morro.",-15.390278,-39.568056,"WGS84","Bahia",NA,NA,NA,NA,"CAMACAN"
+"idLoc_145",NA,"BR","Brazil","RPPN Serra do Teimoso.",-15.154444,-39.523333,"WGS84","Bahia",NA,NA,NA,NA,"JUSSARÍ"
