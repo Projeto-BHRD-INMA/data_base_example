@@ -1,4 +1,10 @@
-# Data base example 
+# Data base discussion
+
+## Useful links
+
+- (Prisma protocol)[http://www.prisma-statement.org/Protocols/]
+
+## Data base example 
 
 Example of relational data tables in DwC format. Input data is the result of a search in the GBIF plataform, for two fern species: *Asplenium triquetrum* and *Asplenium truncorum* using the `rgbif` package. 
 
