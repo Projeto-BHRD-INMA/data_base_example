@@ -2,7 +2,16 @@
 
 ## Useful links
 
-- (Prisma protocol)[http://www.prisma-statement.org/Protocols/]
+### General
+
+- [Prisma protocol](http://www.prisma-statement.org/Protocols/): systematic review protocol
+- [Data carpentry for Ecology](https://datacarpentry.org/ecology-workshop/): basic notions of database, R and SQL
+- [Darwin Core](https://dwc.tdwg.org/): biodiversity data standard
+
+### Plant databases
+
+- [TRY](https://www.try-db.org/TryWeb/Home.php): plants' traits database
+- [TreeCo](http://labtrop.ib.usp.br/doku.php?id=projetos:treeco:start): Neotropical Tree Communities database
 
 ## Data base example 
 
