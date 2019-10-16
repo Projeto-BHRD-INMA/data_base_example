@@ -3,6 +3,9 @@
 ########################################
 # Sara Mortara, first version for pci database meeting 
 
+# loading packages
+library(dplyr)
+
 # reading standard table output from 
 sibbr <- read.csv("data/DwC_para_SiBBr.csv", 
                   stringsAsFactors = FALSE)
@@ -51,7 +54,7 @@ tax <- resu_list$taxon %>%
   .[!duplicated(.$scientificName) 
       & !is.na(.$scientificName)
       & .$scientificName != "",] %>%
-  bind_cols(idSp =  paste("idSp", sprintf('%02d', 1:nrow(.)), sep = "_"),
+  bind_cols(idSp =  paste("idTax", sprintf('%02d', 1:nrow(.)), sep = "_"),
             .)
 
 ## making a list w/ all tables
