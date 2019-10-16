@@ -13,8 +13,7 @@
 - [TRY](https://www.try-db.org/TryWeb/Home.php): plants' traits database
 - [TreeCo](http://labtrop.ib.usp.br/doku.php?id=projetos:treeco:start): Neotropical Tree Communities database
 
-## A very basic presentation
-
+## A very basic presentation [here](presentation/reuniao_banco_dados_DarwinCore.pdf)
 
 ## Data base example 
 
